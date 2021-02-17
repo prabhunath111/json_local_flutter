@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Prabhu Nath Tiwary",
+    "age": "23",
+    "gender": "male",
+    "height": "183cm",
+    "address": " Kolkata India",
+    "role": "Software Developer",
+    "company": "Aponiar Solution Pvt Ltd"
+  },
+  {
+    "name": "Abhik Adarsh",
+    "age": "24",
+    "gender": "male",
+    "height": "175cm",
+    "address": "Bengaluru India",
+    "role": "Design Engineer",
+    "company": "Cyprus semiconductor"
+  },
+  {
+    "name": "Ashish Adarsh",
+    "age": "22",
+    "gender": "male",
+    "height": "175cm",
+    "address": " Sasaram India",
+    "role": "Software Developer",
+    "company": "Cognizant"
+  }
+]
